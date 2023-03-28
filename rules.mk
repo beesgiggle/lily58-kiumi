@@ -14,6 +14,7 @@ RGBLIGHT_ENABLE = no
 OLED_DRIVER_ENABLE = yes
 EXTRAKEY_ENABLE= yes # For Media Keys
 WPM_ENABLE = yes
+VIA_ENABLE = yes
 LTO_ENABLE = yes     # Makes hex file smaller
 EXTRAFLAGS += -flto
 
